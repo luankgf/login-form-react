@@ -40,11 +40,17 @@ http://localhost:5173
 
 
 📌 Funcionalidades
+
 ✅ Campo de senha com ícone de exibir/ocultar
+
 ✅ Validação de campos obrigatórios via atributo required
+
 ✅ Layout responsivo e centralizado
+
 ✅ Ícones de e-mail, senha e olho do Material Symbols
+
 ✅ Botões de login social ilustrativos
+
 
 
 📖 Licença
@@ -52,6 +58,9 @@ Projeto de estudo — livre para uso e modificação.
 
 
 ✨ Autor
+
 Desenvolvido por Luan Kleber Gomes Farias
+
 🚀 LinkedIn: https://www.linkedin.com/in/luanklebergf/
+
 💻 Portfólio: https://github.com/luankgf
